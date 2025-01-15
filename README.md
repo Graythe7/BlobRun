@@ -7,3 +7,6 @@ Gameplay Instruction
 - Reach the score 500 to win!
 
 and that's all it :D.
+
+![Welcome Menu](/images/Screenshot%201403-10-26%20at%205.03.45%20in%20the%20afternoon.png)
+![Mid Game](/images/Screenshot%201403-10-26%20at%205.15.08%20in%20the%20afternoon.png)
